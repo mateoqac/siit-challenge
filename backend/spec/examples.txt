@@ -1,9 +1,9 @@
 example_id                            | status | run_time        |
 ------------------------------------- | ------ | --------------- |
-./spec/main_spec.rb[1:1]              | passed | 0.00161 seconds |
-./spec/models/rental_spec.rb[1:1:1:1] | passed | 0.00042 seconds |
-./spec/models/rental_spec.rb[1:1:2:1] | passed | 0.00105 seconds |
-./spec/models/rental_spec.rb[1:2:1:1] | passed | 0.00149 seconds |
-./spec/models/rental_spec.rb[1:2:2:1] | passed | 0.00019 seconds |
-./spec/models/rental_spec.rb[1:2:3:1] | passed | 0.0005 seconds  |
-./spec/models/rental_spec.rb[1:2:4:1] | passed | 0.00045 seconds |
+./spec/main_spec.rb[1:1]              | passed | 0.00143 seconds |
+./spec/models/rental_spec.rb[1:1:1:1] | passed | 0.00064 seconds |
+./spec/models/rental_spec.rb[1:1:2:1] | passed | 0.00087 seconds |
+./spec/models/rental_spec.rb[1:2:1:1] | passed | 0.00019 seconds |
+./spec/models/rental_spec.rb[1:2:2:1] | passed | 0.00045 seconds |
+./spec/models/rental_spec.rb[1:2:3:1] | passed | 0.00146 seconds |
+./spec/models/rental_spec.rb[1:2:4:1] | passed | 0.0005 seconds  |
