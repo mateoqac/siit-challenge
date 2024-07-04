@@ -15,6 +15,10 @@
 # See https://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 require_relative '../models/car'
 require_relative '../models/rental'
+require_relative '../models/feature'
+require_relative '../models/option'
+require_relative '../models/commission'
+require_relative '../models/data_processor'
 
 RSpec.configure do |config|
   # rspec-expectations config goes here. You can use an alternate
